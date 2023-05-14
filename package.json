@@ -1,0 +1,32 @@
+{
+    "name": "prompt-msg",
+    "version": "0.0.2",
+    "description": "pop up the message that you entered",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/LifeOrLife/message.git"
+    },
+    "keywords": [
+        "message",
+        "light"
+    ],
+    "author": "btea",
+    "license": "MIT",
+    "publishConfig": {
+        "access": "public"
+    },
+    "bugs": {
+        "url": "https://github.com/LifeOrLife/message/issues"
+    },
+    "homepage": "https://github.com/LifeOrLife/message#readme",
+    "devDependencies": {
+        "typescript": "4.5.5",
+        "vite": "2.8.3"
+    }
+}

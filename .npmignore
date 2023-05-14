@@ -1,0 +1,7 @@
+.gitignore
+index.html
+index.ts
+pnpm-lock.yaml
+renovate.json
+tsconfig.json
+vite.config.ts
